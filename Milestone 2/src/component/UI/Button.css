@@ -1,0 +1,10 @@
+.button{
+    align-items: center;
+ }
+ .btn{
+     color:white;
+     background-color: black;
+     border-radius: 5px;
+     margin-top: 20px;
+     margin-left: 200px;
+ }
